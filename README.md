@@ -1,15 +1,6 @@
-<div align="center">
+# Breno Viana
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Breno%20Viana&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Computer%20Engineering%20%40%20UFBA&descAlignY=58&descSize=18&descColor=a78bfa&animation=fadeIn" width="100%"/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&width=650&lines=Full-Stack+Developer;Computer+Engineering+%40+UFBA;Java+%7C+Spring+%7C+Node+%7C+Angular;Flutter+%7C+React+%7C+SQL;JWT+%26+OAuth+enthusiast)](https://git.io/typing-svg)
-
-<br/>
-
-[![GitHub followers](https://img.shields.io/github/followers/Breno-Viana?style=for-the-badge&color=a78bfa&labelColor=1e1b4b&logo=github)](https://github.com/Breno-Viana)
-[![Profile views](https://komarev.com/ghpvc/?username=Breno-Viana&style=for-the-badge&color=a78bfa&labelColor=1e1b4b)](https://github.com/Breno-Viana)
-
-</div>
+Computer Engineering @ UFBA · Salvador, BA 🇧🇷
 
 ---
 
@@ -78,22 +69,6 @@ public class Breno extends Developer {
 
 </div>
 
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Breno-Viana&theme=midnight-purple&border=7c3aed&background=0f0c29&ring=a78bfa&fire=c084fc&currStreakLabel=a78bfa)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Breno-Viana&theme=darkhub&no-frame=true&column=6&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
 ---
 
 ## 📫 Contato
@@ -105,7 +80,3 @@ public class Breno extends Developer {
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Breno-Viana)
 
 </div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
