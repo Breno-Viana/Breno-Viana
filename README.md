@@ -4,28 +4,6 @@ Computer Engineering @ UFBA · Salvador, BA 🇧🇷
 
 ---
 
-## 👨‍💻 Sobre mim
-
-```java
-public class Breno extends Developer {
-
-    private final String  name        = "Breno Viana";
-    private final String  degree      = "Engenharia da Computação";
-    private final String  university  = "UFBA — Universidade Federal da Bahia";
-    private final String  location    = "Salvador, BA 🇧🇷";
-    private final boolean openToWork  = true;
-
-    public String[] getCurrentFocus() {
-        return new String[]{
-            "Arquitetura de APIs REST com Spring Boot",
-            "Autenticação segura com JWT & OAuth 2.0",
-            "Apps mobile multiplataforma com Flutter",
-            "Interfaces modernas com Angular & React"
-        };
-    }
-}
-```
-
 ---
 
 ## 🛠️ Stack de Tecnologias
