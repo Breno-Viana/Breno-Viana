@@ -35,19 +35,7 @@ Computer Engineering @ UFBA · Salvador, BA 🇧🇷
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
----
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Breno-Viana&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&border_color=7c3aed&bg_color=0f0c29&title_color=a78bfa&icon_color=a78bfa&text_color=e2e8f0"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Breno-Viana&layout=compact&theme=midnight-purple&border_color=7c3aed&bg_color=0f0c29&title_color=a78bfa&text_color=e2e8f0"/>
-
-</div>
-
----
 
 ## 📫 Contato
 
